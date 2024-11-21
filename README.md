@@ -23,6 +23,9 @@ Overview: I have identified key revenue drivers, including product performance, 
 
 Supplier and Logistics: This analysis uncovered supplier performance, shipping analysis and transportation modes.
 
+## Dashboard:
+
+
 ## Key Findings:
 - Total revenue generated was 577.60k.
 
