@@ -8,6 +8,7 @@ I have curated two well-detailed and interactive dashboards that provide insight
 
 ## Data Source:
 Onyx Data provided this dataset via their LinkedIn profile. It contained 26 columns and 100 rows.
+[Dataset](https://github.com/JoyIbe/Onyx-Data-November-2024-Challenge/blob/main/Onyx%20Data%20-%20DataDNA%20Dataset%20Challenge%20-%20Supply%20Chain%20%20Dataset%20-%20November%202024.xlsx)
 
 ## Tools: 
 Power Query in Power BI: Data cleaning and formatting.
