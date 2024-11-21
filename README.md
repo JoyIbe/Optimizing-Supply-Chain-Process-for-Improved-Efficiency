@@ -13,11 +13,51 @@ Onyx Data provided this dataset via their LinkedIn profile. It contained 26 colu
 ## Tools: 
 Power Query in Power BI: Data cleaning and formatting.
 
-Power BI: Visualization
+Power BI: Visualization.
 
 ## Data Processing:
 I deployed Power BI DAX's functionality to track total KPI metrics amongst essential data fields such as product type and Shipping carriers.
 
 ## Data Analysis:
-Overview: I have identified key revenue drivers highlighting product performance, customer demographics,   
+Overview: I have identified key revenue drivers, including product performance, customer demographics, SKU performance, to gain a clear understanding of inventory trends and availability.
+
+Supplier and Logistics: This analysis uncovered supplier performance, shipping analysis and transportation modes.
+
+## Key Findings:
+- Total revenue generated was 577.60k.
+
+- Product type: Skincare products generated 40% with 241.63k of the revenue which is the highest compared to haircare's 30% and cosmetics 28%. It also has the highest defect rate, requiring quality control improvements.
+
+- Geographically, Mumbai generates the highest revenue with over 138k.
+
+- Customer Demographics: Female Customers contributes the majority of revenue.
+
+- Manufacturing cost: Skincare products cost more to produce with over 41% gap.
+
+- SKU Performance: SKU 51,38,31,90.. generates the highest revenue in this hierarchy.
+
+- Inspection Result: Skincare products and Supplier 1 records the most number of passes and proves to be  more viable.
+
+- Supplier Performance: Supplier 1 generates the most revenue, has the highest lead time variation, which could impact delivery times and customer satisfaction.
+
+- Transportation: Carrier A has the highest shipping costs, suggesting a need for cost optimization strategies.
+- Road is the most preferred transportation mode by customers, but it also has the highest average shipping cost.
+
+## Recommendations:
+By implementing the following recommended actions, the company can optimize its supply chain, improve customer satisfaction, and drive revenue growth:
+
+- Products with more sales should always be in stock to boost revenue.  
+
+- Locations with lower sales and revenue may require localized marketing or distribution strategies.
+  
+- Explore alternative suppliers to reduce reliance on Supplier 1.
+  
+- Prioritize timely deliveries to improve customer satisfaction.
+  
+- Optimize delivery routes to minimize transportation costs and delivery time.
+
+- Implement quality improvement initiatives like waste management to reduce defect rates.
+
+ 
+
 
