@@ -28,6 +28,9 @@ Overview: I have identified key revenue drivers, including product performance, 
 Supplier and Logistics: This analysis uncovered supplier performance, shipping analysis and transportation modes.
 
 ## Dashboard:
+[Overview](https://github.com/JoyIbe/Onyx-Data-November-2024-Challenge/blob/f0b1c1b0c0022803fcf4405fa6ca60bdc384091c/Overview%20Dashboard.png)
+
+[Supplier&Logistics](
 
 
 ## Key Findings:
