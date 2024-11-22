@@ -13,6 +13,10 @@ Onyx Data provided this dataset via their LinkedIn profile. It contained 26 colu
 ## Tools: 
 Power Query in Power BI: Data cleaning and formatting.
 
+[Excerpts of Uncleaned Dataset](https://github.com/user-attachments/assets/58dcf0fc-95d4-40b8-89d8-9f63b51cc100)
+
+[Excerpts of Cleaned Dataset](https://github.com/user-attachments/assets/e1989ac5-32fb-4534-a9ef-acf6a853965c)
+
 Power BI: Visualization.
 
 ## Data Processing:
