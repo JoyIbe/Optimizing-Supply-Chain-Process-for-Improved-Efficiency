@@ -44,13 +44,15 @@ Supplier and Logistics: This analysis uncovered supplier performance, shipping a
 
 - Manufacturing cost: Skincare products cost more to produce with over 41% gap.
 
-- SKU Performance: SKU 51,38,31,90.. generates the highest revenue in this hierarchy.
+- SKU Performance: SKU 51,38,31,90, 2.. generates the highest revenue in this top 5 hierarchy.
+
+- Inventory: The stock level totaled to 4,777 units with an average lead time of 16 days. Adequate marketing strategies should be implemented to bridge or minimize the gap between product volumes and product sold.
 
 - Inspection Result: Skincare products and Supplier 1 records the most number of passes and proves to be  more viable.
 
 - Supplier Performance: Supplier 1 generates the most revenue, has the highest lead time variation, which could impact delivery times and customer satisfaction.
 
-- Transportation: Carrier A has the highest shipping costs, suggesting a need for cost optimization strategies.
+- Logistics: Total shipping cost equals 554.81 with Carrier A having the highest shipping costs, suggesting a need for cost optimization strategies.
 - Road is the most preferred transportation mode by customers, but it also has the highest average shipping cost.
 
 ## Recommendations:
@@ -64,7 +66,7 @@ By implementing the following recommended actions, the company can optimize its 
   
 - Prioritize timely deliveries to improve customer satisfaction.
   
-- Optimize delivery routes to minimize transportation costs and delivery time.
+- Optimize delivery routes and prioritize Carrier C to minimize transportation costs and delivery time.
 
 - Implement quality improvement initiatives like waste management to reduce defect rates.
 
