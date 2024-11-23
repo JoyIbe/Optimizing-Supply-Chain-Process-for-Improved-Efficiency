@@ -14,9 +14,11 @@ Onyx Data provided this dataset via their LinkedIn profile. It contained 26 colu
 1. Power Query in Power BI: Data cleaning and formatting.
 
 Excerpt of Uncleaned Dataset:
+
 <img width="934" alt="Excerpt of Uncleaned Dataset" src="https://github.com/user-attachments/assets/a36fc609-95ab-469e-b208-c4eb1ecf5c77">
 
 Excerpt of Cleaned Dataset:
+
 <img width="936" alt="Excerpt of Cleaned Dataset" src="https://github.com/user-attachments/assets/a9c7d8cd-78e7-4a98-83e2-d979ba623210">
 
 2. Power BI: Visualization.
@@ -30,8 +32,11 @@ Overview: I have identified key revenue drivers, including product performance, 
 Supplier and Logistics: This analysis uncovered supplier performance, shipping analysis and transportation modes.
 
 ## Dashboard:
+Overview:
 
 <img width="552" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/39c9982c-f235-464e-8f24-c3455f557e0b">
+
+Supplier & Logistics:
 
 <img width="550" alt="Supplier Logistictics Dasboard" src="https://github.com/user-attachments/assets/8177ef6a-10c7-4f12-b473-5b8d4975b44b">
 
