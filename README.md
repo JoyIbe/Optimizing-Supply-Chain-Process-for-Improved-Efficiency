@@ -79,6 +79,25 @@ By implementing the following recommended actions, the company can optimize its 
 
 - Implement quality improvement initiatives like waste management to reduce defect rates.
 
+## Code: 
+DAX functionality demo using Product type: Haircare
+```dax
+DAX code for value of haircare from total revenue:
+Haircare = 
+FORMAT(
+    CALCULATE(
+    SUM('Supply Chain Dataset'[Revenue generated]),
+    'Supply Chain Dataset'[Product type] = "haircare"
+), 
+"0.00" 
+)
+
+Percent or haircare from total revenue = 
+VAR _TotalRevenue = SUM('Supply Chain Dataset'[Revenue generated]) 
+RETURN FORMAT( DIVIDE('Supply Chain Dataset'[Haircare], _TotalRevenue, 0), "0%"
+ )
+```
+
  
 
 
