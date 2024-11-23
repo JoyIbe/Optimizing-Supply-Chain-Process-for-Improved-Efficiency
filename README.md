@@ -11,13 +11,15 @@ Onyx Data provided this dataset via their LinkedIn profile. It contained 26 colu
 [Dataset](https://github.com/JoyIbe/Onyx-Data-November-2024-Challenge/blob/main/Onyx%20Data%20-%20DataDNA%20Dataset%20Challenge%20-%20Supply%20Chain%20%20Dataset%20-%20November%202024.xlsx)
 
 ## Tools: 
-Power Query in Power BI: Data cleaning and formatting.
+1. Power Query in Power BI: Data cleaning and formatting.
 
-[Excerpts of Uncleaned Dataset](https://github.com/user-attachments/assets/58dcf0fc-95d4-40b8-89d8-9f63b51cc100)
+Excerpt of Uncleaned Dataset:
+<img width="934" alt="Excerpt of Uncleaned Dataset" src="https://github.com/user-attachments/assets/a36fc609-95ab-469e-b208-c4eb1ecf5c77">
 
-[Excerpts of Cleaned Dataset](https://github.com/user-attachments/assets/e1989ac5-32fb-4534-a9ef-acf6a853965c)
+Excerpts of Cleaned Dataset:
+<img width="936" alt="Excerpt of Cleaned Dataset" src="https://github.com/user-attachments/assets/a9c7d8cd-78e7-4a98-83e2-d979ba623210">
 
-Power BI: Visualization.
+2. Power BI: Visualization.
 
 ## Data Processing:
 I deployed Power BI DAX's functionality to track total KPI metrics amongst essential data fields such as product type and Shipping carriers.
@@ -28,9 +30,10 @@ Overview: I have identified key revenue drivers, including product performance, 
 Supplier and Logistics: This analysis uncovered supplier performance, shipping analysis and transportation modes.
 
 ## Dashboard:
-[Overview](https://github.com/JoyIbe/Onyx-Data-November-2024-Challenge/blob/f0b1c1b0c0022803fcf4405fa6ca60bdc384091c/Overview%20Dashboard.png)
+<img width="552" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/39c9982c-f235-464e-8f24-c3455f557e0b">
 
-[Supplier&Logistics](https://github.com/JoyIbe/Onyx-Data-November-2024-Challenge/blob/main/Supplier%26Logistictics%20Dasboard.png)
+<img width="550" alt="Supplier Logistictics Dasboard" src="https://github.com/user-attachments/assets/8177ef6a-10c7-4f12-b473-5b8d4975b44b">
+
 
 
 ## Key Findings:
