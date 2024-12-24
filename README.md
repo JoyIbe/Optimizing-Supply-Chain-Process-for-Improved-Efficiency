@@ -97,7 +97,36 @@ VAR _TotalRevenue = SUM('Supply Chain Dataset'[Revenue generated])
 RETURN FORMAT( DIVIDE('Supply Chain Dataset'[Haircare], _TotalRevenue, 0), "0%"
  )
 ```
-
- 
+Used SQL to solve 21 business questions. See [Query]()
+```sql
+CREATE TABLE supplychain (
+	Product_type varchar(20),	
+	SKU	varchar(10),
+	Price float,
+	Availability int,	
+	Number_of_products_sold	 int,
+	Revenue_generated float,	
+	Customer_demographics varchar(20),
+	Stock_levels int,	
+	Lead_times	int,
+	Order_quantities int,	
+	Shipping_times int,	
+	Shipping_carriers varchar(20),
+	Shipping_costs	float,
+	Supplier_name	varchar(20),
+	Location	varchar(20),
+	Latitide	float,
+	Longitude	float,
+	Lead_time	int,
+	Production_volumes	int,
+	Manufacturing_lead_time	int,
+	Manufacturing_costs	float,
+	Inspection_results varchar(20),	
+	Defect_rates float,	
+	Transportation_modes varchar(10),	
+	Routes	varchar(20),
+	Costs float
+	);
+``` 
 
 
