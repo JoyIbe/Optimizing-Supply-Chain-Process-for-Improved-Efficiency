@@ -97,7 +97,7 @@ VAR _TotalRevenue = SUM('Supply Chain Dataset'[Revenue generated])
 RETURN FORMAT( DIVIDE('Supply Chain Dataset'[Haircare], _TotalRevenue, 0), "0%"
  )
 ```
-Used SQL to solve 21 business questions. See [Query]()
+Used SQL to solve 21 business questions. See [Query](https://github.com/JoyIbe/Onyx-Data-November-2024-Challenge/blob/main/SupplyChain.sql)
 ```sql
 CREATE TABLE supplychain (
 	Product_type varchar(20),	
